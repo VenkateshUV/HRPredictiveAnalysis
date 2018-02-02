@@ -4,6 +4,6 @@
 
 • Decision Trees, Logistic Regression and Random Forest were implemented on the data to come up with models and predictions.
 
-• An Interactive dashboard with python framework dash by plotly was coded and deployed and ran on Heroku for external access. Click here to view the dashboard
+• An Interactive dashboard with python framework dash by plotly was coded and deployed and ran on Heroku for external access. 
 
 Techniques Used: Exploratory Data Analysis, Predictive Analysis, Regression Analysis, Decision Trees, Plotly & Tableau Visualization.
